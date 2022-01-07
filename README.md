@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/Medusa-Gitty/Medusa-Gitty/main/header.png">
 
+I'm a passionate full stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I’m currently learning Data Structures and Algorithms and MERN Stack.
+
+Also I love pizza 🍕
+
 ## Stats :
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Medusa-Gitty&show_icons=true&theme=dracula)
