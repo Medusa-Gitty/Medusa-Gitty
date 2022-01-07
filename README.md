@@ -26,6 +26,8 @@ Also I love, pizza. 🍕
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Medusa-Gitty&theme=github)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medusa-Gitty)](https://github.com/anuraghazra/github-readme-stats)
+
 ## <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools :
 
 <p>
