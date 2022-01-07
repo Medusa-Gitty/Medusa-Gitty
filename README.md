@@ -1,13 +1,17 @@
 <img src="https://raw.githubusercontent.com/Medusa-Gitty/Medusa-Gitty/main/header.png">
 
-## Stats
+## Stats :
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Medusa-Gitty&show_icons=true&theme=dracula)
 
-## 🔥 Streak stats
+## 🔥 Streak stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Medusa-Gitty&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🛠️ Tech Stack and Tools I use:
+## Contribution Graph
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Medusa-Gitty&theme=github)
+
+## 🛠️ Tech Stack and Tools :
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="30px"/>
@@ -34,7 +38,3 @@
 <a href="https://www.instagram.com/sayak_mohanta/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
  <a href="mailto:sayakmohanta1998@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 </p>
-
-## Contribution Graph
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Medusa-Gitty&theme=github)
