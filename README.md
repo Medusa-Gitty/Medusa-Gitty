@@ -12,7 +12,8 @@ I’m currently learning Data Structures and Algorithms and MERN Stack.
 
 .
 
-Also I love, pizza 🍕
+Also I love, pizza. 🍕
+
 
 ## 💻 Github Stats :
 
