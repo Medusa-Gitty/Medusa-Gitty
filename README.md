@@ -1,4 +1,5 @@
 ### Hey there 👋
+<img src="https://raw.githubusercontent.com/Medusa-Gitty/Medusa-Gitty/main/header.png">
 
 ## Stats
 
