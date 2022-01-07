@@ -7,7 +7,7 @@
 ## 🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Medusa-Gitty&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Tech Stack and Tools I use:
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="30px"/>
@@ -27,12 +27,14 @@
 <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"  height="30px"/>
 </p>
 
-## ❤️🌸 Let's get connected:
+## 🌸 Let's get connected:
 
 <p>
 <a href="https://www.linkedin.com/in/medusagitty/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 <a href="https://www.instagram.com/sayak_mohanta/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+ <a href="mailto:sayakmohanta1998@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 </p>
 
 ## Contribution Graph
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Medusa-Gitty&theme=github)
