@@ -25,7 +25,7 @@ Also I love, pizza 🍕
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Medusa-Gitty&theme=github)
 
-## 🛠️ Tech Stack and Tools :
+## 🛠️<img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools :
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="30px"/>
